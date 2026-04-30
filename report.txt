@@ -1,0 +1,11 @@
+Total Employees: 500
+Departments: ['Cardiology', 'Maternity', 'Neurology']
+Education Levels: {3: 188, 4: 131, 2: 104, 1: 59, 5: 18}
+Single Count: 161
+Divorced Count: 122
+Years At Company: {'min': 0.0, 'max': 40.0, 'avg': 7.04}
+Distance From Home: {'min': 1.0, 'max': 29.0, 'avg': 9.12}
+Hourly Rate: {'min': 15.0, 'max': 50.0, 'avg': 32.86}
+Marital %: {'Married': 43.4, 'Single': 32.2, 'Divorced': 24.4}
+Avg WorkLife Balance: 2.75
+Total Attrition: 60
