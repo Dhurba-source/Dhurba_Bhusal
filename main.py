@@ -2,6 +2,7 @@
 # Version update - GUI added
 # Added data processing logic
 # Added visualization functions
+# Added dashboard and report feature
 
 import tkinter as tk
 from tkinter import messagebox, ttk
